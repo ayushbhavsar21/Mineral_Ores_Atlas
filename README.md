@@ -51,3 +51,7 @@ The "Mineral Ores Around the World" project leverages a Kaggle dataset to create
 ## Author
 
 [@ayushbhavsar21](https://github.com/ayushbhavsar21)
+
+## References
+- Colob - [https://colab.research.google.com/drive/1IEJaMKDePre-9aSycPbTj4jvUuqyBl-z?usp=sharing](https://colab.research.google.com/drive/1IEJaMKDePre-9aSycPbTj4jvUuqyBl-z?usp=sharing)
+- Output HTML - [https://ayushbhavsar21.github.io/OreMap-World-Mineral-Visualization/](https://ayushbhavsar21.github.io/OreMap-World-Mineral-Visualization/)
