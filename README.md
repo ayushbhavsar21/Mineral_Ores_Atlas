@@ -33,7 +33,7 @@ The "Mineral Ores Around the World" project leverages a Kaggle dataset to create
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/mineral-ores-around-the-world.git
+   git clone https://github.com/ayushbhavsar21/OreMap-World-Mineral-Visualization.git
 
 2. ***Install Required Libraries***
     Install the necessary Python libraries using pip:
